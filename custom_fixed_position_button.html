@@ -1,0 +1,29 @@
+<script>
+  (function() {
+  if(document.getElementById('commitchange-script')) return;
+  var npo = // add you npo ID here;
+  var script = document.createElement('script');
+  var first = document.getElementsByTagName('script')[0];
+  script.setAttribute('data-npo-id', npo);
+  script.id = 'commitchange-script';
+  script.src = 'https://commitchange.com/js/donate-button.v2.js';
+  first.parentNode.insertBefore(script, first);
+  })();
+</script>
+
+<style>
+  a.commitchange-donate--customFixed {
+    /* add your custom css like background, font, etc here*/
+    position: fixed !important;
+    bottom: 0;
+    right: 40px;
+    padding: 12px 11px 7px 11px;
+    z-index: 99999;
+    border-radius: 6px 6px 0 0;
+    box-shadow: 0px 0px 5px 1px rgba(128,128,128,0.5);
+  }
+</style>
+
+<a data-amounts='10,20,30,70,100,200,1000' class='commitchange-donate commitchange-donate--customFixed' data-custom>
+  Donate
+</a>
