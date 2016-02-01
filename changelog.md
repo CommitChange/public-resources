@@ -1,5 +1,5 @@
 #Change Log
-*For keeping track of updates that would be helpful for users (excludes marketing pages, tests and probably most backend updates).* 
+*For keeping track of updates that would be helpful for users (excludes marketing pages, tests and probably most backend updates).  This log only documents changes from the beginning of 2016 onwards.* 
 
 ---
 **Plz follow this guide:**
