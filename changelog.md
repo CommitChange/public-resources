@@ -14,6 +14,11 @@
 
 ---
 
+###2016-02-03
+- **Added** little disclaimer about HTML emails to all wysiwygs that are tied to emails: "Custom HTML is allowed, but please note that different email clients can render HTML differently.  To avoid any discrepancies, it's best to keep your email layout simple."
+
+---
+
 ###2016-02-02 
 - **Changed** events and campaigns so that if they are marked as deleted, they are only viewable to editors.
 - **Added** ability to undelete campaigns and events
