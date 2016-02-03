@@ -12,6 +12,12 @@
 	- **Changed** 
 	- **Removed**
 
+---
+
+###2016-02-02 
+- **Changed** events and campaigns so that if they are marked as deleted, they are only viewable to editors.
+- **Added** ability to undelete campaigns and events
+- **Changed** nonprofit profile page so that if it is unpublished, only super admins can visit it
 
 ---
 
