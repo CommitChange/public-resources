@@ -14,6 +14,11 @@
 
 ---
 
+###2016-02-04
+- **Added** ability to sort by name and contributions on CRM by clicking on the row headers
+- 
+---
+
 ###2016-02-03
 - **Added** little disclaimer about HTML emails to all wysiwygs that are tied to emails: "Custom HTML is allowed, but please note that different email clients can render HTML differently.  To avoid any discrepancies, it's best to keep your email layout simple."
 
