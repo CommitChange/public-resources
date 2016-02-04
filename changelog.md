@@ -16,7 +16,7 @@
 
 ###2016-02-04
 - **Added** ability to sort by name and contributions on CRM by clicking on the row headers
-- 
+
 ---
 
 ###2016-02-03
