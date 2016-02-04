@@ -4,9 +4,8 @@
 ---
 **Plz follow this guide:**
 
-- It’s made for humans, not machines, so legibility is crucial.
-- List releases in reverse-chronological order (newest on top).
-- Write all dates in YYYY-MM-DD format.
+- List releases in reverse-chronological order (newest on top)
+- Write all dates in YYYY-MM-DD format
 - Label changes to describe their impact on the project:
 	- **Added**  
 	- **Changed** 
