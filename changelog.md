@@ -13,6 +13,16 @@
 
 ---
 
+###2016-02-09
+- **Added** filtering by campaign and event to CRM
+
+---
+
+###2016-02-08
+- **Added** ability to edit ticket bid id and to add note to ticket from attendees list
+
+---
+
 ###2016-02-04
 - **Added** ability to sort by name and contributions on CRM by clicking on row headers
 
