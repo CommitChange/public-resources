@@ -19,7 +19,8 @@
 ---
 
 ###2016-02-08
-- **Added** ability to edit ticket bid id and to add note to ticket from attendees list
+- **Added** ability to edit ticket bid id from attendees list
+- **Added** ability to add and edit notes on tickets from attendees list
 
 ---
 
