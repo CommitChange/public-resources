@@ -13,6 +13,23 @@
 
 ---
 
+###2016-02-24
+- **Added** import wizard with dropdowns so that NPOs can match their column headers with ours
+- **Edited** campaign listings on NPO profile page and campaign index page so that they are displayed in table format
+- **Edited** event listings on event listing page so that they are displayed in table format
+
+---
+
+###2016-02-23
+- **Added** peer to peer page for donors
+
+---
+
+###2016-02-17
+- **Added** dispute records on payment history
+
+---
+
 ###2016-02-09
 - **Added** filtering by campaign and event to CRM
 
