@@ -10,6 +10,7 @@
 	- **Added**  
 	- **Changed** 
 	- **Removed**
+
 ---
 
 ###2016-03-17
@@ -23,6 +24,7 @@
 - **Edited** profile pages so that they are nested under profile ids
 - **Added** filtering by year to payments dashboard
 - **Edited** consolidate ticket and receipt mailers for attendees
+
 ---
 
 ###2016-03-03
