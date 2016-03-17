@@ -10,6 +10,32 @@
 	- **Added**  
 	- **Changed** 
 	- **Removed**
+---
+
+###2016-03-17
+
+- **Edited** separate out the campaign names and campaign gift level names in exports
+
+---
+
+###2016-03-08
+- **Added** super admin dashboard for donor profiles
+- **Edited** profile pages so that they are nested under profile ids
+- **Added** filtering by year to payments dashboard
+- **Edited** consolidate ticket and receipt mailers for attendees
+---
+
+###2016-03-03
+- **Added** more metrics and chart to attendees list
+- **Added** sorting ability to attendees list
+- **Added** Elev.io
+- **Added** ticket costs and total donations to attendees exports
+
+---
+
+###2016-03-02
+- **Added** more metrics and chart to attendees list
+- **Added** sorting ability to attendees list
 
 ---
 
