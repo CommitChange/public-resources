@@ -19,6 +19,12 @@
 
 ---
 
+###2016-03-14
+- **Added** allow ticket purchasers to add a note for their ticket(s), which will go in the attendees list under the notes column
+
+
+---
+
 ###2016-03-08
 - **Added** super admin dashboard for donor profiles
 - **Edited** profile pages so that they are nested under profile ids
