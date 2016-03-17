@@ -15,7 +15,7 @@
 
 ###2016-03-17
 
-- **Edited** separate out the campaign names and campaign gift level names in exports
+- **Changed** separate out the campaign names and campaign gift level names in exports
 
 ---
 
@@ -27,9 +27,9 @@
 
 ###2016-03-08
 - **Added** super admin dashboard for donor profiles
-- **Edited** profile pages so that they are nested under profile ids
+- **Changed** profile pages so that they are nested under profile ids
 - **Added** filtering by year to payments dashboard
-- **Edited** consolidate ticket and receipt mailers for attendees
+- **Changed** consolidate ticket and receipt mailers for attendees
 
 ---
 
@@ -50,7 +50,7 @@
 ###2016-02-24
 - **Added** import wizard with dropdowns so that NPOs can match their column headers with ours
 - **Edited** campaign listings on NPO profile page and campaign index page so that they are displayed in table format
-- **Edited** event listings on event listing page so that they are displayed in table format
+- **Changed** event listings on event listing page so that they are displayed in table format
 
 ---
 
