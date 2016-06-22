@@ -10,8 +10,7 @@
 - Better email preview system.
 - More data reporting on the supporter details side panel.
 - Better front-end performance.
-- MailChimp integration.
-- Gmail integration.
+- API integrations (including MailChimp)
 
 #### Improvements on the Recurring Donations Dashboard
 
