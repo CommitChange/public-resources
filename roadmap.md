@@ -22,5 +22,4 @@
 - Improved event guest tracking.
 - Custom form builder for collecting volunteer and other supporter info from your website.
 - Improved event attendees list card and charge tracking.
-- Add ability to reorder gift levels on campaigns.
 
