@@ -7,9 +7,11 @@
 - Better analytics on mass emails.
 - Better email templating.
 - Better 1-1 emails.
+- Better email preview system.
 - More data reporting on the supporter details side panel.
 - Better front-end performance.
 - MailChimp integration.
+- Gmail integration.
 
 #### Improvements on the Recurring Donations Dashboard
 
@@ -21,4 +23,5 @@
 - Improved event guest tracking.
 - Custom form builder for collecting volunteer and other supporter info from your website.
 - Improved event attendees list card and charge tracking.
+- Add ability to reorder gift levels on campaigns.
 
